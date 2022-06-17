@@ -1,0 +1,8 @@
+@classmethod
+Los metodos de clases pueden, pueden utilizar los atributos de la clase. (cls) - No usan SELF
+
+@staticmethod
+Los metedos estáticos, No utilizan los atributos de la clase. Se le pasan paremtros externos. (parametro1 , parametro2)
+
+@property
+Los metedos de instancia , dan #Get y #set con los atributos de la clase, (self)

@@ -1,0 +1,4 @@
+1)Preguntar si quiere que lo hagamos con PUSH o con SET solo. 
+  El PUSH sale como un commit de los cambios. 
+
+2)Cuando volvemos a agregar a alguien, borra a todos los anteriores. 
